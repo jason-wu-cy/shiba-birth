@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "strict": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "noEmitOnError": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@Base/*": ["base/*"],
+      "@Components/*": ["components/*"],
+      "@Reducers/*": ["reducers/*"],
+      "@API/*": ["api/*"],
+      "@Tools/*": ["tools/*"],
+      "@Hooks/*": ["hooks/*"],
+      "@Models/*": ["models/*"],
+      "@CSS/*": ["css/*"],
+      "@Services/*": ["services/*"],
+      "@Providers/*": ["providers/*"],
+      "@Mocks/*": ["mocks/*"],
+      "@Langs/*": ["langs/*"],
+      "@Env/*": ["env/*"],
+      "@Plugin/*": ["plugin/*"],
+      "@Debug/*": ["debug/*"],
+      "@Articles/*": ["article/*"]
+    }
+  },
+  "exclude": ["node_modules", "build"]
+}

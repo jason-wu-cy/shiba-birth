@@ -1,0 +1,37 @@
+# +------------------------+
+# |Server igore file block |
+# +------------------------+
+
+# Folders
+public/
+node_modules/
+_draft
+
+# Files
+*.d.ts
+
+# +--------------------------+
+# |Front end igore file block|
+# +--------------------------+
+
+# Folders
+coverage
+node_modules
+results
+dist
+config
+scripts
+build
+build_node
+
+# Files
+*.csv
+*.dat
+*.out
+*.gz
+*.map
+*cache
+bundle*.js
+app-config.js
+.env*
+.eslintrc.js

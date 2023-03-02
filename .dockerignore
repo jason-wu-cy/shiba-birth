@@ -1,0 +1,15 @@
+# +---------------+
+# | Modules block |
+# +---------------+
+
+# Folders
+node_modules/
+deployment/
+coverage/
+
+# Files
+.env
+*.swp
+credential.json
+fcm_credential.json
+yarn-error.log

@@ -1,0 +1,12 @@
+# +--------------------------+
+# |Front end igore file block|
+# +--------------------------+
+
+# Folders
+node_modules/
+coverage/
+build/
+build_node/
+
+# Files
+.env
