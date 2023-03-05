@@ -1,9 +1,12 @@
 {
   "name": "shiba",
   "version": "0.0.1",
+  "homepage": "https://jason-wu-cy.github.io/shiba-birth/",
   "private": false,
   "author": "Jason Wu <jasonwucy.com@gmail.com>",
   "scripts": {
+    "predeploy": "npm run build:web",
+    "deploy": "gh-pages -d build",
     "start:web": "node scripts/start.js --progress",
     "build:web": "node scripts/build.js --progress",
     "dev": "cross-env APP_ENV=dev npm run start:web",
@@ -126,6 +129,7 @@
     "debug": "4.3.4",
     "dotenv": "^16.0.0",
     "ejs": "3.1.7",
+    "gh-pages": "^5.0.0",
     "html-minifier": "4.0.0",
     "immer": "^7.0.9",
     "isbot": "^3.0.15",
