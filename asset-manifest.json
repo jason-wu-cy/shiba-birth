@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shiba-birth/static/css/main.91b52455.chunk.css",
-    "main.js": "/shiba-birth/static/js/main.be194b7d.chunk.js",
-    "main.js.map": "/shiba-birth/static/js/main.be194b7d.chunk.js.map",
+    "main.js": "/shiba-birth/static/js/main.7551d6eb.chunk.js",
+    "main.js.map": "/shiba-birth/static/js/main.7551d6eb.chunk.js.map",
     "runtime-main.js": "/shiba-birth/static/js/runtime-main.a5a15d07.js",
     "runtime-main.js.map": "/shiba-birth/static/js/runtime-main.a5a15d07.js.map",
     "static/css/2.3835d7cd.chunk.css": "/shiba-birth/static/css/2.3835d7cd.chunk.css",
@@ -23,8 +23,8 @@
     "static/js/2.f2c2d918.chunk.js.LICENSE.txt": "/shiba-birth/static/js/2.f2c2d918.chunk.js.LICENSE.txt",
     "static/js/2.f2c2d918.chunk.js.LICENSE.txt.gz": "/shiba-birth/static/js/2.f2c2d918.chunk.js.LICENSE.txt.gz",
     "static/js/2.f2c2d918.chunk.js.gz": "/shiba-birth/static/js/2.f2c2d918.chunk.js.gz",
-    "static/js/main.be194b7d.chunk.js.LICENSE.txt": "/shiba-birth/static/js/main.be194b7d.chunk.js.LICENSE.txt",
-    "static/js/main.be194b7d.chunk.js.gz": "/shiba-birth/static/js/main.be194b7d.chunk.js.gz",
+    "static/js/main.7551d6eb.chunk.js.LICENSE.txt": "/shiba-birth/static/js/main.7551d6eb.chunk.js.LICENSE.txt",
+    "static/js/main.7551d6eb.chunk.js.gz": "/shiba-birth/static/js/main.7551d6eb.chunk.js.gz",
     "static/js/runtime-main.a5a15d07.js.gz": "/shiba-birth/static/js/runtime-main.a5a15d07.js.gz",
     "static/media/slick.svg": "/shiba-birth/static/media/slick.2630a3e3.svg",
     "static/media/slick.2630a3e3.svg.gz": "/shiba-birth/static/media/slick.2630a3e3.svg.gz",
@@ -44,6 +44,6 @@
     "static/css/2.3835d7cd.chunk.css",
     "static/js/2.f2c2d918.chunk.js",
     "static/css/main.91b52455.chunk.css",
-    "static/js/main.be194b7d.chunk.js"
+    "static/js/main.7551d6eb.chunk.js"
   ]
 }
