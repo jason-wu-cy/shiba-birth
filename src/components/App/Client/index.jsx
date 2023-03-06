@@ -16,7 +16,7 @@ function AppClient() {
   const [errorPop, setErrorPop] = useState("");
   /* Functions */
   const onChange = (event) => {
-    setInputPassword(Number(event.target.value));
+    setInputPassword(event.target.value);
   };
   const onConfirm = () => {
     if (validPassword === inputPassword) {
